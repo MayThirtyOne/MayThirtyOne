@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a seasoned Full Stack Software Developer with over 3 years of professional experience. My expertise spans a wide range of technical areas, including distributed systems, event-driven microservice architecture, and cloud technologies. I specialize in AWS, which allows me to deliver scalable and secure solutions for clients. My hands-on experience with DevOps and CI/CD processes further strengthens my ability to deliver high-quality software.
+I am a seasoned Full Stack Software Developer with over 4 years of professional experience. My expertise spans a wide range of technical areas, including distributed systems, event-driven microservice architecture, and cloud technologies. I specialize in AWS, which allows me to deliver scalable and secure solutions for clients. My hands-on experience with DevOps and CI/CD processes further strengthens my ability to deliver high-quality software.
 
 ## Technical Skills 🚀
 
