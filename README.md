@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a seasoned Full Stack Software Developer with over 4 years of professional experience. My expertise spans a wide range of technical areas, including distributed systems, event-driven microservice architecture, and cloud technologies. I specialize in AWS, which allows me to deliver scalable and secure solutions for clients. My hands-on experience with DevOps and CI/CD processes further strengthens my ability to deliver high-quality software.
+I am a seasoned Software Engineer with over 5 years of professional experience. My expertise spans a wide range of technical areas, including distributed systems, event-driven microservice architecture, and cloud technologies. I specialize in AWS, which allows me to deliver scalable and secure solutions for clients. My hands-on experience with DevOps and CI/CD processes further strengthens my ability to deliver high-quality software.
 
 ## Technical Skills 🚀
 
@@ -15,7 +15,7 @@ I am a seasoned Full Stack Software Developer with over 4 years of professional 
 
 ## Approach 🛠️
 
-I am a polyglot developer who believes in selecting the right tool for each job. I am passionate about utilizing various technologies such as SaaS, Test-Driven Development (TDD), Domain-Driven Design (DDD), Functional Programming, Clean Architecture, and adhering to SOLID principles to ensure the highest quality of work.
+I am a polyglot developer who believes in selecting the right tool for each job. I am passionate about using various technologies such as SaaS, TDD, DDD, Functional Programming, Clean Architecture, and adhering to SOLID principles to ensure the highest quality of work.
 
 ## Contact 📬
 
@@ -23,6 +23,7 @@ I am committed to ongoing professional development and am always eager to collab
 
 - ✉️ **Email:** [may31.py@gmail.com](mailto:may31.py@gmail.com)
 - 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/maythirtyone/)
+- 🔗 **Portfolio:** [vijay.codes](https://vijay.codes/)
 
 
 [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayThirtyOne&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
