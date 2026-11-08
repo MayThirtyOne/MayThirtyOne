@@ -1,36 +1,35 @@
-### Hey, I'm Vijay 👋
+### Hi there 👋
 
-Backend engineer with 5+ years of experience, who likes building systems that move lots of events around without breaking. Lately I've also been building with LLMs and agents: getting them to do real work in production, not just demos.
+I'm a Senior Software Engineer with 5+ years of experience building cloud-native, event-driven distributed systems on AWS, at a scale of 30M+ events a day. My core work is backend and platform engineering: microservices, serverless pipelines, internal developer platforms and zero-downtime database migrations. More recently I've been shipping production AI systems: multi-agent assistants, LLM model routing with evals, and tooling that makes codebases ready for AI agents.
 
-## Things I like building 🛠️
+## Technical Skills 🚀
 
-- 📨 **Event-driven systems** that stay calm at millions of events a day
-- ☁️ **Serverless and cloud-native backends** on AWS
-- 🤖 **Multi-agent AI assistants** that plug into the tools teams already use (via MCP)
-- 🧭 **LLM routers** that send each task to the right model, plus evals to prove it works
-- 🧰 **Developer tooling** that makes codebases friendly for AI agents
-
-## Tech I reach for ⚡
-
-- **AI & LLMs:** Claude, OpenAI, Amazon Bedrock, LangGraph, MCP, RAG, Evals
+- **Domain:** Backend, Distributed Systems, Event-Driven Microservices, Serverless, Platform Engineering
+- **AI & LLMs:** Claude, OpenAI, Amazon Bedrock, LangGraph, MCP, RAG, Evals, Multi-Agent Systems
+- **Languages:** TypeScript/JavaScript, Python, Go, Java
+- **Frameworks:** Node.js, NestJS, Spring Boot, FastAPI
+- **Databases:** PostgreSQL, DynamoDB, MongoDB, OpenSearch
+- **Cloud Platforms:** AWS, GCP
+- **Orchestration and Containerization:** Kubernetes, Docker, AWS ECS, Fargate
+- **CI/CD and IaC:** GitLab CI, Terraform
 - **AI Tooling:** OpenCode, Agent Harnesses, Repomix, Graphify
-- **Languages:** TypeScript, Python, Go, Java
-- **Backend:** Node.js, NestJS, Spring Boot, FastAPI
-- **Cloud & Infra:** AWS, GCP, Terraform, Kubernetes, Docker
-- **Data:** PostgreSQL, DynamoDB, MongoDB, OpenSearch
 
-## Side quests 🧪
+## Approach 🛠️
 
-- [**justrefer.me**](https://justrefer.me): tired of "can you refer me?" DMs? One link, and AI ranks the applicants against the job, with receipts.
-- [**ihateheic.com**](https://ihateheic.com): because iPhone photos shouldn't be a format puzzle. 38 photo tools that run fully in your browser, so your photos never leave your device.
+I pick the right tool for each problem rather than one stack for everything. I care about clean architecture, clear API contracts and systems that are easy to operate. I write RFCs and ADRs for significant design decisions. With AI, I focus on measurable results: evals before rollout, model choice based on cost and quality, and agents that work with the tools teams already use.
 
-## Say hi 📬
+## Contact 📬
 
-- ✉️ [may31.py@gmail.com](mailto:may31.py@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maythirtyone/)
-- 🌐 [vijay.codes](https://vijay.codes/)
+Open to interesting backend, platform and AI engineering conversations:
+
+- ✉️ **Email:** [may31.py@gmail.com](mailto:may31.py@gmail.com)
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/maythirtyone/)
+- 🔗 **Portfolio:** [vijay.codes](https://vijay.codes/)
+
 
 [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayThirtyOne&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Coding Activity             |  Languages
 :-------------------------:|:-------------------------:
