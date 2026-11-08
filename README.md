@@ -1,6 +1,6 @@
 ### Hey, I'm Vijay 👋
 
-Backend engineer who likes building systems that move lots of events around without breaking. Lately I've also been building with LLMs and agents: getting them to do real work in production, not just demos.
+Backend engineer with 5+ years of experience, who likes building systems that move lots of events around without breaking. Lately I've also been building with LLMs and agents: getting them to do real work in production, not just demos.
 
 ## Things I like building 🛠️
 
